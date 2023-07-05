@@ -1,2 +1,2 @@
-#!/bin/bash
-echo -n '0 string SCHOOL' > school.mgc
+echo '0 string SCHOOL School file' > school.mgc
+echo '!:mime School' >> school.mgc
